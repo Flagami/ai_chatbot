@@ -1,0 +1,2 @@
+[2025-07-31 09:14:22] [INFO] [silicon_flow.py:13:call_silicon_cloud_api] Init openai client success!
+[2025-07-31 09:14:25] [INFO] [silicon_flow.py:33:call_silicon_cloud_api] Call THUDM/GLM-4-9B-0414 API successfully for the 1 times
